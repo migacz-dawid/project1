@@ -9,7 +9,8 @@ Strona internetowa stworzona w podejściu **mobile-first**, wykorzystująca **Fl
 ## 💻 Technologie
 - HTML5  
 - CSS3 (Flexbox)  
-- JavaScript  
+- JavaScript
+- SEO, Mobile-First
 
 ## 📂 Uruchomienie projektu
 1. **Sklonuj repozytorium**  
