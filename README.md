@@ -4,7 +4,7 @@
 Strona internetowa stworzona w podejściu **mobile-first**, wykorzystująca **Flexbox** do responsywnego układu. Wbudowana **karuzela galerii** została zaprojektowana od podstaw. Projekt dostosowany do potrzeb klienta, z uwzględnieniem **SEO** i optymalizacji pod wyszukiwarki. Grafiki dostarczone przez klienta, a wszystkie dane zostały zanonimizowane.
 
 ## 🔗 Demo
-👉 [Zobacz stronę na żywo](https://twojadomena.com)  
+👉 [Zobacz stronę na żywo](https://migacz-dawid.github.io/project1/)  
 
 ## 💻 Technologie
 - HTML5  
